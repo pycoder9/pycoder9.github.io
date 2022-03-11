@@ -1,0 +1,19 @@
+[
+
+  {
+
+    "relation": ["delegate_permission/common.handle_all_urls"],
+
+    "target": {
+
+      "namespace": "android_app",
+
+      "package_name": "xyz.appmaker.coxxdr",
+
+      "sha256_cert_fingerprints": ["F0:2C:CA:FE:13:71:4E:EF:EC:54:66:43:62:01:60:97:E8:9A:D0:AB:D4:2D:86:7B:88:78:E5:D3:D0:DC:1F:D6"]
+
+    }
+
+  }
+
+]
